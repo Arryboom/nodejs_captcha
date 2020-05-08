@@ -1,5 +1,9 @@
 # generate image captcha for ml
 
+code img eg:
+
+![](./code/1_8388.png)
+
 ```
 npm i canvas@2.6.0
 node index.js
